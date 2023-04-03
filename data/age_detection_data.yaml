@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['0-5', '11-15', '16-20', '21-30', '31-40', '41-50', '51-60', '6-10', '60-']
+
+roboflow:
+  workspace: fluxblazesu2022
+  project: age-detection-tom31
+  version: 29
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fluxblazesu2022/age-detection-tom31/dataset/29
