@@ -7,7 +7,9 @@ Classes : ['0-5', '11-15', '16-20', '21-30', '31-40', '41-50', '51-60', '6-10', 
 ![Detection Snip 1](images/pistol_snip1.jpg)
 
 
-![Results](https://github.com/sarthakmishraa/pistol_detection/blob/main/runs/train/results.png)
+![Results](https://github.com/sarthakmishraa/pistol_detection/blob/main/runs/train/img1.jpg)
+![Results](https://github.com/sarthakmishraa/pistol_detection/blob/main/runs/train/img2.jpg)
+![Results](https://github.com/sarthakmishraa/pistol_detection/blob/main/runs/train/img3.jpg)
 
 <!-- https://user-images.githubusercontent.com/56118819/187691301-1bc7b71d-b9b9-4079-881d-565c120c5b49.mp4 -->
 
